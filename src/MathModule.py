@@ -13,3 +13,5 @@ print(pow(3, 4))
 print(math.exp(4))
 
 print(math.log10(2))
+
+print(math.sin(90))
